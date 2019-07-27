@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1752b316843ee93b9de2b99e0d398288",
+    "revision": "0bc649739a475dcbb919d3cddd340021",
     "url": "/node-wiki/build/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/node-wiki/build/static/css/2.46439c26.chunk.css"
   },
   {
-    "revision": "7309ae213934a3107cfa",
+    "revision": "cb73ed812d90bcad4177",
     "url": "/node-wiki/build/static/css/main.8a96d73e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/node-wiki/build/static/js/2.8cc6f53a.chunk.js"
   },
   {
-    "revision": "7309ae213934a3107cfa",
-    "url": "/node-wiki/build/static/js/main.963f1dee.chunk.js"
+    "revision": "cb73ed812d90bcad4177",
+    "url": "/node-wiki/build/static/js/main.596cfa8a.chunk.js"
   },
   {
     "revision": "fcca0fb592538e091db9",
