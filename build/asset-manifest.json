@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/node-wiki/build/static/css/main.8a96d73e.chunk.css",
-    "main.js": "/node-wiki/build/static/js/main.46acd9c2.chunk.js",
-    "main.js.map": "/node-wiki/build/static/js/main.46acd9c2.chunk.js.map",
+    "main.js": "/node-wiki/build/static/js/main.9dec5fa4.chunk.js",
+    "main.js.map": "/node-wiki/build/static/js/main.9dec5fa4.chunk.js.map",
     "runtime~main.js": "/node-wiki/build/static/js/runtime~main.22d82967.js",
     "runtime~main.js.map": "/node-wiki/build/static/js/runtime~main.22d82967.js.map",
     "static/css/2.46439c26.chunk.css": "/node-wiki/build/static/css/2.46439c26.chunk.css",
     "static/js/2.8cc6f53a.chunk.js": "/node-wiki/build/static/js/2.8cc6f53a.chunk.js",
     "static/js/2.8cc6f53a.chunk.js.map": "/node-wiki/build/static/js/2.8cc6f53a.chunk.js.map",
     "index.html": "/node-wiki/build/index.html",
-    "precache-manifest.98ba8b0b9a69b5621f5eafac5c2b82de.js": "/node-wiki/build/precache-manifest.98ba8b0b9a69b5621f5eafac5c2b82de.js",
+    "precache-manifest.b2ed9e7538a57c89250a807a733cf712.js": "/node-wiki/build/precache-manifest.b2ed9e7538a57c89250a807a733cf712.js",
     "service-worker.js": "/node-wiki/build/service-worker.js",
     "static/css/2.46439c26.chunk.css.map": "/node-wiki/build/static/css/2.46439c26.chunk.css.map",
     "static/css/main.8a96d73e.chunk.css.map": "/node-wiki/build/static/css/main.8a96d73e.chunk.css.map"
